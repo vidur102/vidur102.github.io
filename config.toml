@@ -1,0 +1,4 @@
+baseURL = 'https://whatis-hinduism.com/'
+languageCode = 'en-us'
+title = 'What is Hinduism?'
+theme = "Ananke"

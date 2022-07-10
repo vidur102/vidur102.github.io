@@ -1,0 +1,4 @@
+
+# Generated site must be in docs/ because that is all GitHub pages
+# supports. Ignore the site generated in 'public'.
+public/
